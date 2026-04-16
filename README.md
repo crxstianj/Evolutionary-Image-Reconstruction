@@ -4,6 +4,12 @@
 
 El sistema parte de una imagen objetivo y busca aproximarla colocando formas geométricas (polígonos, círculos, rectángulos, triángulos) sobre un lienzo en blanco. Cada algoritmo evalúa qué tan cerca está la imagen generada de la original usando métricas de error como **Delta E (CIE1976)** o distancia euclidiana, y va mejorando iterativamente.
 
+<p align=center>
+<img width="400" src="https://github.com/user-attachments/assets/8104c6d3-90b4-4891-98df-a5239c18e8c1" />
+</p>
+
+
+
 ## Algoritmos implementados
 
 | Archivo | Algoritmo | Descripción |
